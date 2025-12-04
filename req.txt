@@ -1,0 +1,7 @@
+numpy 
+torch 
+sentence-transformers 
+langchain 
+langchain-community 
+streamlit 
+google-genai
